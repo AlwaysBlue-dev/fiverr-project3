@@ -25,14 +25,14 @@
                 <table>
                     <thead>
                         <tr>
-                            <th>Id</th>
+                            <th>Client Id</th>
                             <th>Name</th>
                             <th>Email</th>
                             <th>Equipment</th>
                             <th>Model</th>
                             <th>Problem</th>
                             <th>Date</th>
-                            <th>Employee ID</th>
+                            <th>Assist Employee ID</th>
                             <th>Assist Check</th>
                         </tr>
                     </thead>
